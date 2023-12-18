@@ -108,8 +108,8 @@ git clone https://github.com/[계정명]/egovframe-template-simple-react.git
 # 복제된 프로젝트 디렉토리로 이동
 cd egovframe-template-simple-react
 
-# node modules를 설치해 준다.
-npm install
+# yarn berry 기반이므로 라이브러리 압축을 풀어 준다
+yarn
 ```
 
 ### 2. 백엔드 프로젝트 설정
@@ -126,7 +126,7 @@ REACT_APP_EGOV_CONTEXT_URL=localhost:8080
 
 ```bash
 # 테스트용 리액트 서버를 실행할 때 아래 명령어를 사용한다.
-npm start
+yarn start
 ```
 
 ---
