@@ -41,6 +41,11 @@
       "last 1 safari version"
     ]
   },
+  "dependenciesMeta": {
+    "fsevents": {
+      "built": false
+    }
+  },
   "proxy": "http://localhost:8080",
   "packageManager": "yarn@4.0.2"
 }
