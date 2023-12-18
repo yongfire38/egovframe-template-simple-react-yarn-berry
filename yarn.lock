@@ -12506,6 +12506,9 @@ __metadata:
     react-router-dom: "npm:^6.4.0"
     react-scripts: "npm:5.0.1"
     web-vitals: "npm:^2.1.4"
+  dependenciesMeta:
+    fsevents:
+      built: false
   languageName: unknown
   linkType: soft
 
