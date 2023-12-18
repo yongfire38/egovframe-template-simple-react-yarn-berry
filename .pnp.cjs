@@ -7200,7 +7200,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["core-js", [\
       ["npm:3.34.0", {\
-        "packageLocation": "./.yarn/unplugged/core-js-npm-3.34.0-8debcb197b/node_modules/core-js/",\
+        "packageLocation": "./.yarn/cache/core-js-npm-3.34.0-8debcb197b-408a77898a.zip/node_modules/core-js/",\
         "packageDependencies": [\
           ["core-js", "npm:3.34.0"]\
         ],\
@@ -7219,7 +7219,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["core-js-pure", [\
       ["npm:3.34.0", {\
-        "packageLocation": "./.yarn/unplugged/core-js-pure-npm-3.34.0-954af135b0/node_modules/core-js-pure/",\
+        "packageLocation": "./.yarn/cache/core-js-pure-npm-3.34.0-954af135b0-64b628ffa0.zip/node_modules/core-js-pure/",\
         "packageDependencies": [\
           ["core-js-pure", "npm:3.34.0"]\
         ],\
